@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Keith
+# Hey, I’m Keith 👋
 
 🎓 **CS @ Princeton University**  
 💡 Building projects that blend **software engineering, algorithms, and creativity**.
